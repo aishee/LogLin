@@ -1,1 +1,1 @@
-# LogLin
+Tool developed to Forensics Investigators, Network Security folks and System Administrators by parsing either live host logs or extracted logs from a forensic disk image and consolidating logs of forensic.
